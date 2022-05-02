@@ -1,0 +1,24 @@
+.page {
+   color: var(--main-text-color);
+   background-color: var(--main-color);
+   font-family: "Roboto", serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 1.7;
+   letter-spacing: 0.03em;
+   position: static;
+}
+
+.section {
+   padding-top: 94px;
+   padding-bottom: 94px;
+}
+
+.container {
+   width: 1200px;
+   padding-left: 15px;
+   padding-right: 15px;
+   margin-left: auto;
+   margin-right: auto;
+}
